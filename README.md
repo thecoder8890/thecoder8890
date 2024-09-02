@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a working as a Senior Java Developer.<br>⚡ I’m currently learning Python and the Cloud Eco system.<br>🎯 I’m focusing on Software solution including data science and Java.
+🔭 I'm a working as a Senior Java Developer(SpringBoot,Microservices).<br>⚡ I’m currently learning Python and the Cloud Eco system.<br>🎯 I’m focusing on Software solution including data science and Java.
 
 
 ## 🌐 Socials:
