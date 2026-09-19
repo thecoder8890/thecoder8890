@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
-[![Profile Views](https://komarev.com/ghpvc/?username=mayur&color=58A6FF&style=for-the-badge&label=VISITORS)]()
+[![Profile Views](https://komarev.com/ghpvc/?username=thecoder8890&color=58A6FF&style=for-the-badge&label=VISITORS)]()
 
 </div>
 
@@ -168,26 +168,26 @@ Mentoring engineers, driving **engineering excellence** and building teams that 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mayur&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&ring_color=58A6FF" alt="GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayur&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thecoder8890&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117&ring_color=58A6FF" alt="GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecoder8890&layout=compact&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mayur&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=thecoder8890&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <!-- Contribution Snake Animation -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayur/mayur/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/thecoder8890/thecoder8890/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mayur&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=thecoder8890&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
